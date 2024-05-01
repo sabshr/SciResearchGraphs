@@ -1,4 +1,4 @@
-from matplotlib import rcParams #type: ignore
+#from matplotlib import rcParams #type: ignore  #need latex installed on computer to use
 import matplotlib.pyplot as plt  # type: ignore
 import seaborn as sns # type: ignore
 import numpy as np # type: ignore
@@ -19,7 +19,7 @@ medians = [np.median(pva_ca), np.median(pva_ca_bcd_4_1), np.median(pva_ca_bcd_2_
 all_data = np.concatenate([pva_ca, pva_ca_bcd_4_1, pva_ca_bcd_2_1, pva_bcd_4_1])
 
 # initialization
-labels = ['PVA-CA'] * len(pva_ca) + ['4:1 PVA-CA-BCD'] * len(pva_ca_bcd_4_1) + ['2:1 PVA-CA-BCD'] * len(pva_ca_bcd_2_1) + ['4:1 PVA-BCD'] * len(pva_bcd_4_1)
+labels = ['PVA-CA'] * len(pva_ca) + ['4:1 PVA-CA-βCD'] * len(pva_ca_bcd_4_1) + ['2:1 PVA-CA-βCD'] * len(pva_ca_bcd_2_1) + ['4:1 PVA-βCD'] * len(pva_bcd_4_1)
 plt.figure(figsize=(10, 6))  # Adjust figure size for slides/paper/poster
 sns.stripplot(x=labels, y=all_data, jitter=True, alpha=0.5, marker='o')  #categorical scatter plot
 plt.title('PVA Gel Swelling %')
