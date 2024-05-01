@@ -1,20 +1,34 @@
 import matplotlib.pyplot as plt  # type: ignore
+import seaborn as sns # type: ignore
 import numpy as np # type: ignore
 
 # value dump (3 sig figs)
-pva_ca = np.random.normal(61.5, 61.9, 100)
-test2_scores = np.random.normal(75, 8, 100)
-test3_scores = np.random.normal(80, 12, 100)
-test4_scores = np.random.normal(85, 9, 100)
+pva_ca = (61.5, 61.9, 64.2)
+pva_ca_bcd_4_1 = (70.8, 66.3, 68.1, 70.8)
+pva_ca_bcd_2_1 = (86.6, 80.2, 81.3, 88.5)
+pva_bcd_4_1 = (85.9, 100.0)
 
-#initialize graph
-all_scores = [pva_ca, test2_scores, test3_scores, test4_scores]
-plt.boxplot(all_scores)
+# Calculate medians
+medians = [np.median(pva_ca), np.median(pva_ca_bcd_4_1), np.median(pva_ca_bcd_2_1), np.median(pva_bcd_4_1)]
 
-# title/labels
+# Combine data
+all_data = np.concatenate([pva_ca, pva_ca_bcd_4_1, pva_ca_bcd_2_1, pva_bcd_4_1])
+
+# Initialize graph
+labels = ['PVA-CA'] * len(pva_ca) + ['4:1 PVA-CA-BCD'] * len(pva_ca_bcd_4_1) + ['2:1 PVA-CA-BCD'] * len(pva_ca_bcd_2_1) + ['4:1 PVA-BCD'] * len(pva_bcd_4_1)
+plt.figure(figsize=(10, 6))  # Adjust figure size if needed
+
+# Create categorical scatter plot with median lines
+sns.stripplot(x=labels, y=all_data, jitter=True, alpha=0.5, marker='o')
+
+# Plot median lines
+for i, median in enumerate(medians):
+    plt.plot([i - 0.2, i + 0.2], [median, median], color='black', lw=1)
+
+# Title and labels
 plt.title('PVA Gel Swelling %')
 plt.ylabel('Swelling Capacity (%wt)')
-plt.xticks([1, 2, 3, 4], ['PVA-CA', '4:1 PVA-CA-BCD', '2:1 PVA-CA-BCD', '4:1 PVA-BCD'])
+plt.xlabel('Tests')
 
-# show
+# Show plot
 plt.show()
