@@ -1,11 +1,10 @@
-import matplotlib # type: ignore
-matplotlib.rcParams['text.usetex'] = True
+from matplotlib import rcParams #type: ignore
 import matplotlib.pyplot as plt  # type: ignore
 import seaborn as sns # type: ignore
 import numpy as np # type: ignore
 
-#styling
-#todo
+
+#rcParams['text.usetex'] = True  #need latex installed on computer to use
 
 # value dump (3 sig figs)
 pva_ca = (61.5, 61.9, 64.2)
@@ -25,6 +24,7 @@ plt.figure(figsize=(10, 6))  # Adjust figure size for slides/paper/poster
 sns.stripplot(x=labels, y=all_data, jitter=True, alpha=0.5, marker='o')  #categorical scatter plot
 plt.title('PVA Gel Swelling %')
 plt.ylabel('Swelling Capacity (%wt)')
+
 
 # median lines
 for i, median in enumerate(medians):
