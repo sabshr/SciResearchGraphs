@@ -1,6 +1,12 @@
 import numpy as np # type: ignore
 import matplotlib.pyplot as plt # type: ignore
 import seaborn as sns # type: ignore
+import os
+import sys
+
+#pyblish formatting PATH
+sys.path.append(os.path.join('pyblish', 'plots'))
+import publish # type: ignore
 
 # value dump (3 sig figs)
 pva_ca = (61.5, 61.9, 64.2)
