@@ -1,12 +1,22 @@
 import numpy as np # type: ignore
 import matplotlib.pyplot as plt # type: ignore
+import matplotlib as mpl # type: ignore
 import seaborn as sns # type: ignore
-import os
-import sys
 
-#pyblish formatting PATH
-sys.path.append(os.path.join('pyblish', 'plots'))
-import publish # type: ignore
+
+#formatting
+mpl.rcParams['lines.linewidth'] = 1.25 # sets linedwidth
+fig_size = plt.rcParams["figure.figsize"]
+fig_size[0] = 6                         # size for x
+fig_size[1] = fig_size[0]/1.3         # size for y
+plt.rcParams["figure.figsize"] = fig_size
+plt.rcParams.update({
+     "text.usetex": 1,
+     "font.family": "serif",
+     "font.sans-serif": ["Helvetica"]})
+plt.rcParams['legend.frameon'] = False
+plt.rcParams['legend.handlelength'] = 2.0
+plt.rcParams['lines.markersize'] = 5
 
 # value dump (3 sig figs)
 pva_ca = (61.5, 61.9, 64.2)
@@ -21,7 +31,7 @@ medians = [np.median(pva_ca), np.median(pva_ca_bcd_4_1), np.median(pva_ca_bcd_2_
 all_data = np.concatenate([pva_ca, pva_ca_bcd_4_1, pva_ca_bcd_2_1, pva_bcd_4_1])
 
 # initialization
-labels = ['PVA-CA'] * len(pva_ca) + ['4:1 PVA-CA-βCD'] * len(pva_ca_bcd_4_1) + ['2:1 PVA-CA-βCD'] * len(pva_ca_bcd_2_1) + ['4:1 PVA-βCD'] * len(pva_bcd_4_1)
+labels = ['PVA-CA'] * len(pva_ca) + ['4:1 PVA-CA-betaCD'] * len(pva_ca_bcd_4_1) + ['2:1 PVA-CA-betaCD'] * len(pva_ca_bcd_2_1) + ['4:1 PVA-betaCD'] * len(pva_bcd_4_1)
 plt.figure(figsize=(10, 6))  # Adjust figure size for slides/paper/poster
 sns.stripplot(x=labels, y=all_data, jitter=True, alpha=0.5, marker='o')  #categorical scatter plot
 plt.title('PVA Gel Swelling %')
