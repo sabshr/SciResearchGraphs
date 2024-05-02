@@ -1,11 +1,6 @@
-
-import matplotlib as mpl
-import matplotlib.pyplot as plt  # type: ignore
-import seaborn as sns # type: ignore
 import numpy as np # type: ignore
-
-
-mpl.rcParams['text.usetex'] = True  #need latex installed on computer to use
+import matplotlib.pyplot as plt # type: ignore
+import seaborn as sns # type: ignore
 
 # value dump (3 sig figs)
 pva_ca = (61.5, 61.9, 64.2)
