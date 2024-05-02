@@ -32,7 +32,7 @@ plt.rc('legend', fontsize=0)       # legend fontsize
 plt.rc('figure', titlesize=0)  # fontsize of the figure title
 
 # Value dump (rounded to 3 significant figures)
-pva_ca = (61.5, 61.9, 64.2)
+pva_ca = (61.5, 61.9, 64.2, 37.3)
 pva_ca_bcd_4_1 = (70.8, 66.3, 68.1, 70.8)
 pva_ca_bcd_2_1 = (86.6, 80.2, 81.3, 88.5)
 pva_bcd_4_1 = (85.9, 100.0)
