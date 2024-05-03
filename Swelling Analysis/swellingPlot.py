@@ -35,7 +35,7 @@ plt.rc('figure', titlesize=0)  # fontsize of the figure title
 pva_ca = (61.5, 61.9, 64.2, 37.3)
 pva_ca_bcd_4_1 = (70.8, 66.3, 68.1, 70.8)
 pva_ca_bcd_2_1 = (86.6, 80.2, 81.3, 88.5)
-pva_bcd_4_1 = (85.9, 100.0)
+pva_bcd_4_1 = (69.5, 75.6, 74.4, 72.2)
 
 # Calculate medians for each dataset
 medians = [np.median(pva_ca), np.median(pva_ca_bcd_4_1), np.median(pva_ca_bcd_2_1), np.median(pva_bcd_4_1)]
