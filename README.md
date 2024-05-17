@@ -92,6 +92,7 @@ Prepare 4 solutions of known molarity solutions for each dye - Compare to Beerâ€
 |  6+4H2O  |          0.902          |             0.530            |             1.099            | 
 |  8+2H2O  |          1.145          |             0.640            |             1.367            | 
 <br>
+
 Gels were placed in a 6-well plate, with wells filled with a 4-6H2O dilution of each dye. 3 plates were used, one for each dye.
 
 ### Analyzing Rested Gel Samples
