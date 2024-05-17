@@ -82,7 +82,16 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Serial Dilution: 20mL in 100mL<br>
 - Tested @ 590.4 nm
 <br><br>
-Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)
+
+### Preparing Standard Curves
+Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)<br><br>
+| Dilution | Congo Red Abs.(498.8nm) | Methylene Blue Abs.(668.5nm) | Crystal Violet Abs.(590.6nm) |
+| -------- | ----------------------- | ---------------------------- | ---------------------------- |
+|  2+8H2O  |          0.320          |             0.156            |             0.360            | 
+|  4+6H2O  |          0.627          |             0.376            |             0.738            | 
+|  6+4H2O  |          0.902          |             0.530            |             1.099            | 
+|  8+2H2O  |          1.145          |             0.640            |             1.367            | 
+
 </details>
 
 
