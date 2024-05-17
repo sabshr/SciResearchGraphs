@@ -10,7 +10,7 @@ CA: Citric Acid
 B-CD: Beta Cyclodextrin  
 
 <details>
-## Synthesis of Gels
+## Synthesis of Gels  
 These may be a bit redundant, but going to this level of detail helped me be organized and operate more efficiently when working in the lab.
 
 ### PVA + CA Hydrogel (Control)  
