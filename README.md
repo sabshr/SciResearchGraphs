@@ -57,7 +57,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Cut each gel into smaller and record the weight of dried gels<br>
 - Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  <br>
 - Dry off excess water from the surface  <br>
-- Weigh, then calculate swelling using the formula W_a = ((W_i-W_f)/W_i)*100  
+- Weigh, then calculate swelling using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
 
 
 
