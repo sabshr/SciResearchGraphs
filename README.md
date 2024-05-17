@@ -114,6 +114,14 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 |  PVA/B-CD(4:1) + CA  |          0.31         |       0.30            |             0.29           | 
 |  PVA/B-CD(2:1) + CA  |          0.33          |             0.31            |             0.31            | 
 
+### Results
+- Gels vs No Gel: All gels significantly reduce the absorbance of the dyes compared to no gel, indicating effective dye absorption by the gels.
+- PVA + CA: Generally shows good absorption for all dyes, particularly effective for Methylene Blue.
+- PVA/B-CD: Shows strong absorption for Congo Red and Crystal Violet but less effective for Methylene Blue compared to PVA + CA.
+- PVA/B-CD(4:1) + CA and PVA/B-CD(2:1) + CA: The ratio of B-CD influences the absorbance:
+- For Congo Red: PVA/B-CD(4:1) + CA is most effective.
+- For Methylene Blue: Lower ratios (or no ratio) of B-CD (PVA + CA) are more effective.
+- For Crystal Violet: PVA/B-CD without CA is most effective.
 </details>
 
 
