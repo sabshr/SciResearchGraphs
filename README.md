@@ -1,7 +1,6 @@
 # About
 This is a repository of graphs made using Matplotlib for my 2023-2024 Science Research Project on the Synthesis, Characterization, and Viability of Beta-Cyclodextrin crosslinked PVA Hydrogels. This project was associated with Charles Wright Academy in Tacoma, WA.
 
----
 # Procedure
 This is a copy of the notes/procedure I created and used in the synthesis of Beta-Cyclodextrin Crosslinked PVA Hydrogels. These are published to the world in the hope that other students may base their procedures on my structure of mine. The method I used certainly isn't perfect, but it worked for me. The data/documentation in this repo may come in handy to some researchers, too!  
 <br>
