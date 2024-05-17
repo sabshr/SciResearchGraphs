@@ -132,18 +132,40 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 | Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
-|  Molarity   |          0.019623          |             0.019697         |             0.019719           |
+|  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
 |  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
 <br>
 
 The same 0.01063M EDTA solution was used for all trials
 <br>
 
-| PVA/CA Pb2+  |  |  |  |
+| PVA + CA [Pb2+]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.23          |             18.26           |             18.22           | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.01936785           |
 |  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD [Pb2+] |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |          18.39          |             18.47           |             18.4          | 
+|  Molarity   |          0.01937849         |             0.01941038         |             0.195592           |
+|  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD(4:1) +CA [Pb2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |         18.35           |             18.29           |           18.31         | 
+|  Molarity   |         0.1950605         |           0.1944227        |          0.1946353          |
+|  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD(2:1) + CA [Pb2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |          18.29          |            18.28            |             18.13          | 
+|  Molarity   |       0.1944227            |          0.1943164        |               0.1927219        |
+|  Mean Molarity |  not done |  | | 
+
 
 </details>
 
