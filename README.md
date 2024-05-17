@@ -122,6 +122,7 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 - For Congo Red: PVA/B-CD(4:1) + CA is most effective.
 - For Methylene Blue: Lower ratios (or no ratio) of B-CD (PVA + CA) are more effective.
 - For Crystal Violet: PVA/B-CD without CA is most effective.
+- The weight increase among Cyclodextrin Hydrogels is pretty consistently above that of PVA + CA
 </details>
 
 
