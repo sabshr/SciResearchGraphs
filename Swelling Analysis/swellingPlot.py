@@ -47,7 +47,7 @@ all_data = np.concatenate([pva_ca, pva_ca_bcd_4_1, pva_ca_bcd_2_1, pva_bcd_4_1])
 labels = ['PVA + CA'] * len(pva_ca) + [r"{4:1 PVA-}$\beta${CD + CA}"] * len(pva_ca_bcd_4_1) + [r"{2:1 PVA-}$\beta${CD + CA}"] * len(pva_ca_bcd_2_1) + [r"{4:1 PVA-}$\beta${CD}"] * len(pva_bcd_4_1)
 
 # Create the plot
-plt.figure(figsize=(10, 6))  # Adjust figure size for slides/paper/poster
+plt.figure(figsize=(8, 6))  # Adjust figure size for slides/paper/poster
 sns.stripplot(x=labels, y=all_data, jitter=True, alpha=0.5, marker='o', color='blue')  # Create categorical scatter plot
 plt.title(r'Swelling of PVA Hydrogels')
 plt.ylabel(r'Swelling Capacity (\% weight)')
