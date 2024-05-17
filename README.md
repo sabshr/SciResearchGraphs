@@ -50,7 +50,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Transfer solution into molds  
 - Place in a 100C oven for 12h  
 </details>
-<br>
+<be>
 <details>
 <summary>Swelling Analysis</summary>  
 <br>
@@ -58,6 +58,36 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  <br>
 - Dry off excess water from the surface  <br>
 - Weigh, then calculate swelling using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
+<br>
+<details>
+<summary>Organic Dye Absorbance UV-Vis Assay</summary>  
+<br>
+### Methylene Blue<br>
+~0.02g Methylene Blue (MW 318.85) needs to be added to a 100mL Volumetric Flask with dH2O<br>
+- Actual Weight Used: 0.0202g<br>
+- Serial Dilution: 2mL in 100mL (This was a pain to do. In order to get readable results from my spectrophotometer)<br>
+- Tested @ 668.5 nm
+<br>
+### Congo Red<br>
+~0.5g Congo Red (MW 696.665) needs to be added to a 100mL Volumetric Flask with dH2O<br>
+- Actual Weight Used: 0.2339g<br>
+- Serial Dilution: 5mL in 100mL<br>
+- Tested @ 498.8 nm
+<br>
+### Crystal Violet<br>
+~0.001g Crystal Violet (MW 401.979) needs to be added to a 100mL Volumetric Flask with H2O<br>
+- Actual Weight Used: 0.0045g<br>
+- Serial Dilution: 20mL in 100mL<br>
+- Tested @ 590.4 nm
+<br><br>
+Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)
+
+
+
+
+
+
+
 
 
 
