@@ -125,6 +125,18 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 - The weight increase among Cyclodextrin Hydrogels is pretty consistently above that of PVA + CA
 </details>
 
+<details>
+<summary>Metal Ion Absorbance Assay (Complexometric Titration)</summary>
+| Pb2+ Solution Standardization using 0.01063M EDTA |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$V  |          18.55          |             18.53           |             18.46           | 
+|  Molarity   |          0.019623          |             0.019697         |             0.019719           | 
+|  Pb2+ Standardized Molarity |       0.0197M / 0.26% RSD        | 
+
+
+  
+</details>
+
 
 
 
