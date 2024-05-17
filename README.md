@@ -128,8 +128,7 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 <details>
 <summary>Metal Ion Absorbance Assay (Complexometric Titration)</summary>
 <br>
-The same 0.01063M EDTA solution was used for all trials
-<br>
+The same 0.01063M EDTA solution was used for all trials<br><br>
   
 | Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
