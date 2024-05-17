@@ -63,7 +63,6 @@ These may be a bit redundant, but going to this level of detail helped me be org
   
 <details>
 <summary>Organic Dye Absorbance UV-Vis Assay</summary>  
-<br>
   
 ### Methylene Blue
 ~0.02g Methylene Blue (MW 318.85) needs to be added to a 100mL Volumetric Flask with dH2O<br>
