@@ -133,7 +133,11 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 |  Molarity   |          0.019623          |             0.019697         |             0.019719           | 
 |  Pb2+ Standardized Molarity |       0.0197M / 0.26% RSD        | ||||
 
-
+| Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$V  |          18.55          |             18.53           |             18.46           | 
+|  Molarity   |          0.019623          |             0.019697         |             0.019719           |
+|  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
   
 </details>
 
