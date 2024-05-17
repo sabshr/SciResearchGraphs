@@ -109,7 +109,6 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 
 | Sample | Congo Red | Methylene Blue | Crystal Violet |
 | ------ | --------- | -------------- | -------------- |
-|  No Gel  |          0.23          |             0.23            |             0.23          | 
 |  PVA + CA  |          0.29          |             0.28           |             0.29            | 
 |  PVA/B-CD  |          0.34          |             0.31         |             0.33           | 
 |  PVA/B-CD(4:1) + CA  |          0.31         |       0.30            |             0.29           | 
