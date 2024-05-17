@@ -104,6 +104,7 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 |  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             0.555            | 
 |  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             0.488            | 
 Weight after 24hrs. Gels were all initially weighed and cut to be 0.23g<br>
+
 | Sample | Congo Red | Methylene Blue | Crystal Violet |
 | ------ | --------- | -------------- | -------------- |
 |  No Gel  |          0.23          |             0.23            |             0.23          | 
