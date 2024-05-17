@@ -14,7 +14,7 @@ B-CD: Beta Cyclodextrin
 <details>
 <summary>Synthesis of Gels</summary>  
 <br>
-These may be a bit redundant, but going to this level of detail helped me be organized and operate more efficiently when working in the lab.
+*These may be a bit redundant, but going to this level of detail helped me be organized and operate more efficiently when working in the lab.*
 
 ### PVA + CA Hydrogel (Control)  
 15.00g PVA to 90mL dH2O  
