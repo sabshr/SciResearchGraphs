@@ -131,6 +131,7 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
   
 | Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
+|  Volume Pipetted  |          5.00          |             5.00           |             5.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
 |  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
@@ -165,6 +166,15 @@ The same 0.01063M EDTA solution was used for all trials
 |  $\Delta$ V  |          18.29          |            18.28            |             18.13          | 
 |  Molarity   |       0.1944227            |          0.1943164        |               0.1927219        |
 |  Mean Molarity |  not done |  | | 
+
+---
+
+| Zn2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  Volume Pipetted  |          4.98          |             5.00           |             5.01           | 
+|  $\Delta$ V  |          2.91          |             2.99           |             18.46           | 
+|  Molarity   |         todo           |         todo           |             todo          |
+|  Pb2+ Standardized Molarity  |          todo       |                   |                  | 
 
 
 </details>
