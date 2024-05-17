@@ -24,40 +24,40 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Place in a 100C oven for 12h  
 
 ### PVA/B-CD(4:1) + CA Hydrogel
-15.00g PVA to 90mL dH2O  
-Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
-Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
-Placed solution under vacuum to remove air bubbles  
-Add 10mL of 0.10M CA  
-Transfer solution into molds  
-Place in a 100C oven for 12h  
+- 15.00g PVA to 90mL dH2O  
+- Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
+- Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
+- Placed solution under vacuum to remove air bubbles  
+- Add 10mL of 0.10M CA  
+- Transfer solution into molds  
+- Place in a 100C oven for 12h  
 
 ### PVA/B-CD(2:1) + CA Hydrogel
-15.00g PVA to 90mL dH2O  
-Add 7g B-CD to reach a PVA/B-CD weight ratio of 4:1  
-Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
-Placed solution under vacuum to remove air bubbles  
-Add 10mL of 0.10M CA  
-Transfer solution into molds  
-Place in a 100C oven for 12h  
+- 15.00g PVA to 90mL dH2O  
+- Add 7g B-CD to reach a PVA/B-CD weight ratio of 4:1  
+- Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
+- Placed solution under vacuum to remove air bubbles  
+- Add 10mL of 0.10M CA  
+- Transfer solution into molds  
+- Place in a 100C oven for 12h  
 
 
 ### PVA/B-CD(4:1) Hydrogel 
-Add 15.00g PVA to 100mL dH2O  
-Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
-Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
-Placed solution under vacuum to remove air bubbles  
-Transfer solution into molds  
-Place in a 100C oven for 12h  
+- Add 15.00g PVA to 100mL dH2O  
+- Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
+- Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
+- Placed solution under vacuum to remove air bubbles  
+- Transfer solution into molds  
+- Place in a 100C oven for 12h  
 </details>
 <br>
 <details>
 <summary>Swelling Analysis</summary>  
 <br>
-Cut each gel into smaller and record the weight of dried gels<br>
-Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  <br>
-Dry off excess water from the surface  <br>
-Weigh, then calculate swelling using the formula W_a = ((W_i-W_f)/W_i)*100  
+- Cut each gel into smaller and record the weight of dried gels<br>
+- Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  <br>
+- Dry off excess water from the surface  <br>
+- Weigh, then calculate swelling using the formula W_a = ((W_i-W_f)/W_i)*100  
 
 
 
