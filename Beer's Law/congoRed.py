@@ -23,7 +23,7 @@ plt.rc('axes', titlesize=18)    # fontsize of the axes title
 
 # Plot the data points and regression line
 plt.figure(figsize=(10, 6))
-plt.scatter(x, y, color='black', s=10, label='Spectrophotometer Readings')  # Adjust the 's' parameter to make dots smaller
+plt.scatter(x, y, color='black', s=8, label='Spectrophotometer Readings')  # Adjust the 's' parameter to make dots smaller
 plt.plot(x_fit, regression_line, linewidth = 0.8, color='#DC143C', label=rf'Fit: $y = {slope:.2f}x + {intercept:.4f}$' '\n' rf'$R^2 = {r_value**2:.4f}$')
 
 # Darken the axes at x=0 and y=0
