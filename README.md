@@ -84,7 +84,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 <br><br>
 
 ### Preparing Standard Curves
-Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)<br><br>
+Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)<br>
 | Dilution | Congo Red Abs.(498.8nm) | Methylene Blue Abs.(668.5nm) | Crystal Violet Abs.(590.6nm) |
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
 |  2+8H2O  |          0.320          |             0.156            |             0.360            | 
