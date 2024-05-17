@@ -2,7 +2,7 @@
 This is a repository of graphs made using Matplotlib for my 2023-2024 Science Research Project on the Synthesis, Characterization, and Viability of Beta-Cyclodextrin crosslinked PVA Hydrogels. This project was associated with Charles Wright Academy in Tacoma, WA.
 
 # Procedure
-This is a copy of the notes/procedure I created and used in the synthesis of Beta-Cyclodextrin Crosslinked PVA Hydrogels. This documentation is published to the world in the hope that other students may base their procedures by the wat I did things. The method I used certainly wasn't perfect, but it worked for me. The data in this repo may come in handy to some researchers too!  
+This is a copy of the notes/procedure I created and used in the synthesis of Beta-Cyclodextrin Crosslinked PVA Hydrogels. This documentation is published to the world in the hope that other students may base their procedures by the way I did things. The method I used certainly wasn't perfect, but it worked for me. The data in this repo may come in handy to some researchers too!  
 <br>
 A couple of acronyms that are used throughout the procedure:  
 PVA: Polyvinyl Alcohol  
@@ -85,7 +85,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 
 ### Preparing Standard Curves
 Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)<br>
-| Dilution | Congo Red Abs.(498.8nm) | Methylene Blue Abs.(668.5nm) | Crystal Violet Abs.(590.6nm) |
+| Dilution | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
 |  2+8H2O  |          0.320          |             0.156            |             0.360            | 
 |  4+6H2O  |          0.627          |             0.376            |             0.738            | 
@@ -95,13 +95,13 @@ Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer�
 
 ### Analyzing Rested Gel Samples
 Absorbance readings were taken after gels sat in dye solution for 24h<br>
-| Sample | Congo Red Abs.(498.8nm) | Methylene Blue Abs.(668.5nm) | Crystal Violet Abs.(590.6nm) |
+| Sample | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
-|  No Gel  |          0.320          |             0.156            |             0.360            | 
-|  PVA + CA  |          0.627          |             0.376            |             0.738            | 
-|  PVA/B-CD  |          0.902          |             0.530            |             1.099            | 
-|  PVA/B-CD(4:1) + CA  |          1.145          |             0.640            |             1.367            | 
-|  PVA/B-CD(2:1) + CA  |          1.145          |             0.640            |             1.367            | 
+|  No Gel  |          0.827          |             0.390            |             0.360            | 
+|  PVA + CA  |          0.261          |             0.075            |             0.738            | 
+|  PVA/B-CD  |          0.178          |             0.098         |             1.099            | 
+|  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             1.367            | 
+|  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             1.367            | 
 
 </details>
 
