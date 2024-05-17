@@ -92,17 +92,25 @@ Prepare 4 solutions of known molarity solutions for each dye - Compare to Beerâ€
 |  6+4H2O  |          0.902          |             0.530            |             1.099            | 
 |  8+2H2O  |          1.145          |             0.640            |             1.367            | 
 <br>
-Gels were placed in a 6-well plate, with wells filled with a 4-6H2O dilution of each dye. 3 wells were used, for each dye.
+Gels were placed in a 6-well plate, with wells filled with a 4-6H2O dilution of each dye. 3 plates were used, one for each dye.
 
 ### Analyzing Rested Gel Samples
 Absorbance readings were taken after gels sat in dye solution for 24h<br>
 | Sample | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
-| -------- | ----------------------- | ---------------------------- | ---------------------------- |
+| ------ | --------------------- | -------------------------- | -------------------------- |
 |  No Gel  |          0.827          |             0.390            |             0.913            | 
 |  PVA + CA  |          0.261          |             0.075            |             0.193            | 
 |  PVA/B-CD  |          0.178          |             0.098         |             0.149            | 
 |  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             0.555            | 
 |  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             0.488            | 
+Weight after 24hrs. Gels were all initially weighed and cut to be 0.23g<br>
+| Sample | Congo Red | Methylene Blue | Crystal Violet |
+| ------ | --------- | -------------- | -------------- |
+|  No Gel  |          0.23          |             0.23            |             0.23          | 
+|  PVA + CA  |          0.29          |             0.28           |             0.29            | 
+|  PVA/B-CD  |          0.34          |             0.31         |             0.33           | 
+|  PVA/B-CD(4:1) + CA  |          0.31         |       0.30            |             0.29           | 
+|  PVA/B-CD(2:1) + CA  |          0.33          |             0.31            |             0.31            | 
 
 </details>
 
