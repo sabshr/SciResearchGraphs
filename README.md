@@ -50,6 +50,14 @@ Placed solution under vacuum to remove air bubbles
 Transfer solution into molds  
 Place in a 100C oven for 12h  
 </details>
+<br>
+<details>
+<summary>Swelling Analysis</summary>  
+<br>
+Cut each gel into smaller and record the weight of dried gels  
+Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  
+Dry off excess water from the surface  
+Weigh, then calculate swelling using the formula W_a = ((W_i-W_f)/W_i)*100  
 
 
 
