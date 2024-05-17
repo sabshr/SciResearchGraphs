@@ -70,14 +70,12 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Actual Weight Used: 0.0202g<br>
 - Serial Dilution: 2mL in 100mL (This was a pain to do. In order to get readable results from my spectrophotometer)<br>
 - Tested @ 668.5 nm
-<br>
   
 ### Congo Red
 ~0.5g Congo Red (MW 696.665) needs to be added to a 100mL Volumetric Flask with dH2O<br>
 - Actual Weight Used: 0.2339g<br>
 - Serial Dilution: 5mL in 100mL<br>
 - Tested @ 498.8 nm
-<br>
 
 ### Crystal Violet
 ~0.001g Crystal Violet (MW 401.979) needs to be added to a 100mL Volumetric Flask with H2O<br>
