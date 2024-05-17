@@ -59,6 +59,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Dry off excess water from the surface  <br>
 - Weigh, then calculate swelling using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
 <br>
+</details>
 <details>
 <summary>Organic Dye Absorbance UV-Vis Assay</summary>  
 <br>
@@ -81,7 +82,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Tested @ 590.4 nm
 <br><br>
 Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)
-
+</details>
 
 
 
