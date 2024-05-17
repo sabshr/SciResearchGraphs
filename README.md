@@ -128,6 +128,8 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 <details>
 <summary>Metal Ion Absorbance Assay (Complexometric Titration)</summary>
 <br>
+The same 0.01063M EDTA solution was used for all trials
+<br>
   
 | Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
@@ -135,9 +137,6 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
 |  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
-<br>
-
-The same 0.01063M EDTA solution was used for all trials
 <br>
 
 | PVA + CA [Pb2+]  |  |  |  |
