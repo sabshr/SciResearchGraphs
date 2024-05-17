@@ -93,15 +93,16 @@ Prepare 4 solutions of known molarity solutions for each dye - Compare to Beerâ€
 |  8+2H2O  |          1.145          |             0.640            |             1.367            | 
 
 
+
 ### Analyzing Rested Gel Samples
 Absorbance readings were taken after gels sat in dye solution for 24h<br>
 | Sample | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
-|  No Gel  |          0.827          |             0.390            |             0.360            | 
-|  PVA + CA  |          0.261          |             0.075            |             0.738            | 
-|  PVA/B-CD  |          0.178          |             0.098         |             1.099            | 
-|  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             1.367            | 
-|  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             1.367            | 
+|  No Gel  |          0.827          |             0.390            |             0.913            | 
+|  PVA + CA  |          0.261          |             0.075            |             0.193            | 
+|  PVA/B-CD  |          0.178          |             0.098         |             0.149            | 
+|  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             0.555            | 
+|  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             0.488            | 
 
 </details>
 
