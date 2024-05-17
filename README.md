@@ -1,15 +1,16 @@
 # About
 This is a repository of graphs made using matplotlib for my 2023-2024 Science Research Project on the Synthesis, Characterization, and Viability of Beta-Cyclodextrin crosslinked PVA Hydrogels. This project was associated with Charles Wright Academy in Tacoma, WA.
+
 ---
 # Procedure
 This is an copy of the notes/procedure I created and used in synthesis of Beta-Cyclodextrin Crosslinked PVA Hydrogels. These are published to the world in the hope that other students may base their procedure off the structure of mine. The method I used certainly isn't perfect, but it worked for me. The data/documentation in this repo may come in handy to some reearchers too!
-
+<br>
 A couple acronyms that are used throuought the procedure:  
 PVA: Polyvinyl Alcohol  
 CA: Citric Acid  
 B-CD: Beta Cyclodextrin  
----
 
+---
 <details>
 <summary>Synthesis of Gels</summary>  
 <br>
