@@ -77,8 +77,6 @@ B-CD: Beta Cyclodextrin
 - Gels were placed in dH<sub>2</sub>O (I used cell culture wells) and let sit for 24hrs  <br>
 - Excess water was removed from the surface of gels  <br>
 - Samples were weighed, and swelling was calculated using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
-<br>
-
   
 ## Organic Dye Absorbance UV-Vis Assay 
   
