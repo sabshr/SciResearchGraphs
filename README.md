@@ -141,7 +141,7 @@ The same 0.01063M EDTA solution was used for all trials.
 | Pb<sup>2+</sup> Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
-|  ΔV  |          18.53           |             18.46           | 
+|  ΔV  |          18.53           |             18.53          |              18.46          | 
 |  Molarity   |          0.01971865          |             0.01969739        |             0.01962298           |
 |  Pb<sup>2+</sup> Standardized Molarity  |          0.0197        |                   |                  |
 |  RSD  |        0.26%       |                   |                  | 
@@ -208,3 +208,5 @@ The same 0.01063M EDTA solution was used for all trials.
 |  Mean Molarity |  Not Done... Note each flask was cleaned with H2O and acetate buffer of 6 was made (3ml per titration) |  | | 
 
 </details>
+
+
