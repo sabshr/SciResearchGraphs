@@ -135,35 +135,41 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
-|  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
+|  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  |
+|  RSD  |        0.26%       |                   |                  | 
 <br>
 
 | PVA + CA [Pb2+]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.23          |             18.26           |             18.22           | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.01936785           |
-|  Mean Molarity |  not done |  | | 
+|  Mean Molarity |  0.0194  |  | | 
+|  RSD  |        0.11%       |                   |                  | 
 <br>
 
 | PVA/B-CD [Pb2+] |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.39          |             18.47           |             18.4          | 
-|  Molarity   |          0.01937849         |             0.01941038         |             0.195592           |
-|  Mean Molarity |  not done |  | | 
+|  Molarity   |          0.01937849         |             0.01941038         |             0.0195592           |
+|  Mean Molarity |  0.0194 |  | | 
+|  RSD  |        0.50%       |                   |                  | 
 <br>
 
 | PVA/B-CD(4:1) +CA [Pb2+]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |         18.35           |             18.29           |           18.31         | 
 |  Molarity   |         0.1950605         |           0.1944227        |          0.1946353          |
-|  Mean Molarity |  not done |  | | 
+|  Mean Molarity |  0.195 |  | | 
+|  RSD  |        0.17%       |                   |                  | 
 <br>
 
 | PVA/B-CD(2:1) + CA [Pb2+]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.29          |            18.28            |             18.13          | 
 |  Molarity   |       0.1944227            |          0.1943164        |               0.1927219        |
-|  Mean Molarity |  not done |  | | 
+|  Mean Molarity |  0.194|  | | 
+|  RSD  |        0.49%       |                   |                  | 
+
 
 ---
 
