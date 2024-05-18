@@ -149,8 +149,7 @@ B-CD: Beta Cyclodextrin
 
 
 ## Metal Ion Absorbance Assay (Complexometric Titration)
-<br>
->The same 0.01063M EDTA solution was used for all trials<br><br>
+>The same 0.01063M EDTA solution was used for all trials
   
 | Pb<sup><sup>2+</sup></sup> Solution Standardization |  |  |  |
 | ------ | --------- | -------------- | -------------- |
