@@ -30,7 +30,8 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Placed solution under vacuum to remove air bubbles  
 - Add 10mL of 0.10M CA  
 - Transfer solution into molds  
-- Place in a 100C oven for 12h</details>  
+- Place in a 100C oven for 12h
+</details>  
 
 ### PVA/B-CD(2:1) + CA Hydrogel
 - 15.00g PVA to 90mL dH<sub>2</sub>O  
