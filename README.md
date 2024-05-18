@@ -21,9 +21,10 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Placed solution under vacuum to remove air bubbles  
 - Add 10mL of 0.10M CA  
 - Transfer solution into molds (I used Petri dishes. If I were to do this project again, I would use a silicone/more flexible mold.)  
-- Place in a 100C oven for 12h  
-
-### <details><summary>PVA/B-CD(4:1) + CA Hydrogel</summary>
+- Place in a 100C oven for 12h
+  
+<details>
+### <summary>PVA/B-CD(4:1) + CA Hydrogel</summary>
   - 15.00g PVA to 90mL dH<sub>2</sub>O  
   - Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
   - Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
