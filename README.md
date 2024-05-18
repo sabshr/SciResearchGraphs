@@ -10,13 +10,13 @@ CA: Citric Acid
 B-CD: Beta Cyclodextrin  
 
 ---
-<details>
+
 <summary>Synthesis of Gels</summary>  
 <br>
 These may be a bit redundant, but going to this level of detail helped me be organized and operate more efficiently when working in the lab.
 
 ### PVA + CA Hydrogel (Control)  
-- 15.00g PVA to 90mL dH2O  
+- 15.00g PVA to 90mL dH<sub>2</sub>O  
 - Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
 - Placed solution under vacuum to remove air bubbles  
 - Add 10mL of 0.10M CA  
@@ -24,7 +24,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Place in a 100C oven for 12h  
 
 ### PVA/B-CD(4:1) + CA Hydrogel
-- 15.00g PVA to 90mL dH2O  
+- 15.00g PVA to 90mL dH<sub>2</sub>O  
 - Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
 - Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
 - Placed solution under vacuum to remove air bubbles  
@@ -33,7 +33,7 @@ These may be a bit redundant, but going to this level of detail helped me be org
 - Place in a 100C oven for 12h  
 
 ### PVA/B-CD(2:1) + CA Hydrogel
-- 15.00g PVA to 90mL dH2O  
+- 15.00g PVA to 90mL dH<sub>2</sub>O  
 - Add 7g B-CD to reach a PVA/B-CD weight ratio of 4:1  
 - Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
 - Placed solution under vacuum to remove air bubbles  
@@ -43,42 +43,42 @@ These may be a bit redundant, but going to this level of detail helped me be org
 
 
 ### PVA/B-CD(4:1) Hydrogel 
-- Add 15.00g PVA to 100mL dH2O  
+- Add 15.00g PVA to 100mL dH<sub>2</sub>O  
 - Add 3.75g B-CD to reach a PVA/B-CD weight ratio of 4:1  
 - Stir at 70-80C for 3h then at 40-50C overnight (~18h)  
 - Placed solution under vacuum to remove air bubbles  
 - Transfer solution into molds  
 - Place in a 100C oven for 12h  
-</details>
+
 <be>
-<details>
+
 <summary>Swelling Analysis</summary>  
 <br>
   
 - Cut each gel into smaller pieces and record the weight of dried gels<br>
-- Place gels in dH2O (I used cell culture wells) and let sit for 24hrs  <br>
+- Place gels in dH<sub>2</sub>O (I used cell culture wells) and let sit for 24hrs  <br>
 - Dry off excess water from the surface  <br>
 - Weigh, then calculate swelling using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
 <br>
-</details>
+
   
-<details>
+
 <summary>Organic Dye Absorbance UV-Vis Assay</summary>  
   
 ### Methylene Blue
-~0.02g Methylene Blue (MW 318.85) needs to be added to a 100mL Volumetric Flask with dH2O<br>
+~0.02g Methylene Blue (MW 318.85) needs to be added to a 100mL Volumetric Flask with dH<sub>2</sub>O<br>
 - Actual Weight Used: 0.0202g<br>
 - Serial Dilution: 2mL in 100mL (This was a pain to do. In order to get readable results from my spectrophotometer)<br>
 - Tested @ 668.5 nm
   
 ### Congo Red
-~0.5g Congo Red (MW 696.665) needs to be added to a 100mL Volumetric Flask with dH2O<br>
+~0.5g Congo Red (MW 696.665) needs to be added to a 100mL Volumetric Flask with dH<sub>2</sub>O<br>
 - Actual Weight Used: 0.2339g<br>
 - Serial Dilution: 5mL in 100mL<br>
 - Tested @ 498.8 nm
 
 ### Crystal Violet
-~0.001g Crystal Violet (MW 401.979) needs to be added to a 100mL Volumetric Flask with H2O<br>
+~0.001g Crystal Violet (MW 401.979) needs to be added to a 100mL Volumetric Flask with H<sub>2</sub>O<br>
 - Actual Weight Used: 0.0045g<br>
 - Serial Dilution: 20mL in 100mL<br>
 - Tested @ 590.4 nm
@@ -88,12 +88,12 @@ These may be a bit redundant, but going to this level of detail helped me be org
 Prepare 4 solutions of known molarity solutions for each dye - Compare to Beer’s law curve (determine the error between actual molarity and estimated molarity on Beer’s law curve)<br>
 | Dilution | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
-|  2+8H2O  |          0.320          |             0.156            |             0.360            | 
-|  4+6H2O  |          0.627          |             0.376            |             0.738            | 
-|  6+4H2O  |          0.902          |             0.530            |             1.099            | 
-|  8+2H2O  |          1.145          |             0.640            |             1.367            | 
+|  <sup>2+</sup>8H<sub>2</sub>O  |          0.320          |             0.156            |             0.360            | 
+|  4+6H<sub>2</sub>O  |          0.627          |             0.376            |             0.738            | 
+|  6+4H<sub>2</sub>O  |          0.902          |             0.530            |             1.099            | 
+|  8+2H<sub>2</sub>O  |          1.145          |             0.640            |             1.367            | 
 
-<br>Gels were placed in a 6-well plate, with wells filled with a 4-6H2O dilution of each dye. 3 plates were used, one for each dye.
+<br>Gels were placed in a 6-well plate, with wells filled with a 4-6H<sub>2</sub>O dilution of each dye. 3 plates were used, one for each dye.
 
 ### Analyzing Rested Gel Samples
 Absorbance readings were taken after gels sat in dye solution for 24h<br>
@@ -124,23 +124,23 @@ Absorbance readings were taken after gels sat in dye solution for 24h<br>
 - For Methylene Blue: Lower ratios (or no ratio) of B-CD (PVA + CA) are more effective.
 - For Crystal Violet: PVA/B-CD without CA is most effective.
 - The weight increase among Cyclodextrin Hydrogels is pretty consistently above that of PVA + CA
-</details>
 
-<details>
+
+
 <summary>Metal Ion Absorbance Assay (Complexometric Titration)</summary>
 <br>
 The same 0.01063M EDTA solution was used for all trials<br><br>
   
-| Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
+| Pb<sup><sup>2+</sup></sup> Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.01971865          |             0.01969739        |             0.01962298           |
-|  Pb2+ Standardized Molarity  |          0.0197        |                   |                  |
+|  Pb<sup>2+</sup> Standardized Molarity  |          0.0197        |                   |                  |
 |  RSD  |        0.26%       |                   |                  | 
 <br>
 
-| PVA + CA [Pb2+]  |  |  |  |
+| PVA + CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.23          |             18.26           |             18.22           | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.01936785           |
@@ -148,7 +148,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 |  RSD  |        0.11%       |                   |                  | 
 <br>
 
-| PVA/B-CD [Pb2+] |  |  |  |
+| PVA/B-CD [Pb<sup>2+</sup>] |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.39          |             18.47           |             18.4          | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.0195592           |
@@ -156,7 +156,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 |  RSD  |        0.50%       |                   |                  | 
 <br>
 
-| PVA/B-CD(4:1) +CA [Pb2+]  |  |  |  |
+| PVA/B-CD(4:1) +CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |         18.35           |             18.29           |           18.31         | 
 |  Molarity   |         0.01950605         |           0.01944227        |          0.01946353          |
@@ -164,7 +164,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 |  RSD  |        0.17%       |                   |                  | 
 <br>
 
-| PVA/B-CD(2:1) + CA [Pb2+]  |  |  |  |
+| PVA/B-CD(2:1) + CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          18.29          |            18.28            |             18.13          | 
 |  Molarity   |       0.01944227            |          0.01943164        |               0.01927219        |
@@ -174,46 +174,46 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 
 ---
 
-| Zn2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
+| Zn<sup>2+</sup> Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
 |  $\Delta$ V  |          2.91          |             2.99           |             3.06           | 
 |  Molarity   |         todo           |         todo           |             todo          |
-|  Pb2+ Standardized Molarity  |          todo       |                   |                  | 
+|  Pb<sup>2+</sup> Standardized Molarity  |          todo       |                   |                  | 
 <br>
 
-| PVA + CA [Zn2+]  |  |  |  |
+| PVA + CA [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          5.82          |           5.91             |            5.89           | 
 |  Molarity   |          todo         |             todo        |             todo          |
 |  Mean Molarity |  not done |  | | 
 <br>
 
-| PVA/B-CD [Zn2+]  |  |  |  |
+| PVA/B-CD [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |           5.62         |           5.71             |           5.93         | 
 |  Molarity   |          todo         |             todo        |             todo          |
 |  Mean Molarity |  not done |  | | 
 <br>
 
-| PVA/B-CD(2:1) [Zn2+]  |  |  |  |
+| PVA/B-CD(2:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          5.84          |           6.00            |         5.98          | 
 |  Molarity   |          todo         |             todo        |             todo          |
 |  Mean Molarity |  not done |  | | 
 <br>
 
-| PVA/B-CD(4:1) [Zn2+]  |  |  |  |
+| PVA/B-CD(4:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |            5.99        |           6.00           |          5.99        | 
 |  Molarity   |          todo(credit nico in presentation)         |             todo        |             todo          |
-|  Mean Molarity |  not done... note each flask was cleaned with h2o and acetate buffer of 6 was made (3ml per titration) |  | | 
+|  Mean Molarity |  not done... note each flask was cleaned with H<sub>2</sub>O and acetate buffer of 6 was made (3ml per titration) |  | | 
 <br>
 
 
 bcd+pva
 
-</details>
+
 
 
 
