@@ -2,7 +2,7 @@
 This is a repository of graphs made using Matplotlib for my 2023-2024 Science Research Project on the Synthesis, Characterization, and Viability of Beta-Cyclodextrin crosslinked PVA Hydrogels. This project was associated with Charles Wright Academy in Tacoma, WA.
 
 # Procedure
-This is a copy of the notes/procedure I created and used in the synthesis of Beta-Cyclodextrin Crosslinked PVA Hydrogels. This documentation is published to the world in the hope that other students may base their procedures by the way I did things. The method I used certainly wasn't perfect, but it worked for me. The data in this repo may come in handy to some researchers too!  
+This is a copy of the notes/procedure I created and used in the synthesis and testing of Beta-Cyclodextrin Crosslinked PVA Hydrogels. I am publishing this documentation to the world in the hope that other students may base their procedures on my method. The method I used certainly wasn't perfect, but it worked for me. The data in this repo may come in handy to some researchers, too!  
 <br>
 A couple of acronyms that are used throughout the procedure:  
 PVA: Polyvinyl Alcohol  
@@ -200,7 +200,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |            5.99        |           6.00           |          5.99        | 
 |  Molarity   |          todo(credit nico in presentation)         |             todo        |             todo          |
-|  Mean Molarity |  not done... note each flask was cleaned with 10ml h2o and acetate buffer of 6 was made (3ml per titration) |  | | 
+|  Mean Molarity |  not done... note each flask was cleaned with h2o and acetate buffer of 6 was made (3ml per titration) |  | | 
 <br>
 
 
