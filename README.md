@@ -135,7 +135,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
-|  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  |
+|  Pb2+ Standardized Molarity  |          0.0197        |                   |                  |
 |  RSD  |        0.26%       |                   |                  | 
 <br>
 
