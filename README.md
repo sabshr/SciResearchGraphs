@@ -132,7 +132,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
   
 | Pb2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  Volume Pipetted  |          5.00          |             5.00           |             5.00           | 
+|  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.1971865          |             0.1969739        |             0.1962298           |
 |  Pb2+ Standardized Molarity  |          0.0197M / 0.26% RSD        |                   |                  | 
@@ -169,11 +169,42 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 
 | Zn2+ Solution Standardization using 0.01063M EDTA  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  Volume Pipetted  |          4.98          |             5.00           |             5.01           | 
-|  $\Delta$ V  |          2.91          |             2.99           |             18.46           | 
+|  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
+|  $\Delta$ V  |          2.91          |             2.99           |             3.06           | 
 |  Molarity   |         todo           |         todo           |             todo          |
 |  Pb2+ Standardized Molarity  |          todo       |                   |                  | 
+<br>
 
+| PVA + CA [Zn2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |          5.82          |           5.91             |            5.89           | 
+|  Molarity   |          todo         |             todo        |             todo          |
+|  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD [Zn2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |           5.62         |           5.71             |           5.93         | 
+|  Molarity   |          todo         |             todo        |             todo          |
+|  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD(2:1) [Zn2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |          5.84          |           6.00            |         5.98          | 
+|  Molarity   |          todo         |             todo        |             todo          |
+|  Mean Molarity |  not done |  | | 
+<br>
+
+| PVA/B-CD(4:1) [Zn2+]  |  |  |  |
+| ------ | --------- | -------------- | -------------- |
+|  $\Delta$ V  |            5.99        |           6.00           |          5.99        | 
+|  Molarity   |          todo(credit nico in presentation)         |             todo        |             todo          |
+|  Mean Molarity |  not done... note each flask was cleaned with 10ml h2o and acetate buffer of 6 was made (3ml per titration) |  | | 
+<br>
+
+
+bcd+pva
 
 </details>
 
