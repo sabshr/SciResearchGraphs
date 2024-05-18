@@ -150,9 +150,9 @@ B-CD: Beta Cyclodextrin
 
 ## Metal Ion Absorbance Assay (Complexometric Titration)
 <br>
-The same 0.01063M EDTA solution was used for all trials<br><br>
+>The same 0.01063M EDTA solution was used for all trials<br><br>
   
-| Pb<sup><sup>2+</sup></sup> Solution Standardization using 0.01063M EDTA  |  |  |  |
+| Pb<sup><sup>2+</sup></sup> Solution Standardization |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
 |  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
@@ -195,7 +195,7 @@ The same 0.01063M EDTA solution was used for all trials<br><br>
 
 ---
 
-| Zn<sup>2+</sup> Solution Standardization using 0.01063M EDTA  |  |  |  |
+| Zn<sup>2+</sup> Solution Standardization |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
 |  $\Delta$ V  |          2.91          |             2.99           |             3.06           | 
