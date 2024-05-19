@@ -214,7 +214,7 @@ B-CD: Beta Cyclodextrin
 |  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
 |  $\Delta$ V (mL)  |          2.91          |             2.99           |             3.06           | 
 |  Molarity   |         0.0062115060241          |         0.00635674           |             0.0064925748503          |
-|  Pb<sup>2+</sup> Standardized Molarity  |          0.0064       |                   |                  | 
+|  Zn<sup>2+</sup> Standardized Molarity  |          0.0064       |                   |                  | 
 |  RSD  |        2.21%       |                   |                  | 
 <br>
 
