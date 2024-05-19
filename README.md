@@ -116,9 +116,9 @@ B-CD: Beta Cyclodextrin
 |  8+2H<sub>2</sub>O  |          1.145          |             0.640            |             1.367            | 
 
 ### Analyzing Rested Gel Samples
->Absorbance readings were taken after gels sat in dye solution for 24h<br>
+>Absorbance readings were taken after gels sat in dye solution for 24h. There are hyperlinks to a data visualization on desmos with each sample on this graph. <br>
 
-| Sample | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
+| Sample | [Congo Red Abs. @498.8nm](https://www.desmos.com/calculator/jpirurhp8b) | [Methylene Blue Abs. @668.5nm](https://www.desmos.com/calculator/mpqpil1rlb) | [Crystal Violet Abs. @590.6nm](https://www.desmos.com/calculator/ois8airu3k)|
 | ------ | --------------------- | -------------------------- | -------------------------- |
 |  No Gel  |          0.827          |             0.390            |             0.913            | 
 |  PVA + CA  |          0.261          |             0.075            |             0.193            | 
