@@ -198,40 +198,46 @@ B-CD: Beta Cyclodextrin
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
 |  $\Delta$ V  |          2.91          |             2.99           |             3.06           | 
-|  Molarity   |         todo           |         todo           |             todo          |
-|  Pb<sup>2+</sup> Standardized Molarity  |          todo       |                   |                  | 
+|  Molarity   |         0.0062115060241          |         0.00635674           |             0.0064925748503          |
+|  Pb<sup>2+</sup> Standardized Molarity  |          0.0064       |                   |                  | 
+|  RSD  |        2.21%       |                   |                  | 
 <br>
 
 | PVA + CA [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          5.82          |           5.91             |            5.89           | 
-|  Molarity   |          todo         |             todo        |             todo          |
-|  Mean Molarity |  not done |  | | 
+|  Molarity   |          0.00618666        |             0.00628233       |             0.00626107          |
+|  Mean Molarity |  0.0062 |  | | 
+|  RSD  |        0.805%       |                   |                  | 
 <br>
 
 | PVA/B-CD [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |           5.62         |           5.71             |           5.93         | 
-|  Molarity   |          todo         |             todo        |             todo          |
-|  Mean Molarity |  not done |  | | 
+|  Molarity   |          0.00597406         |             0.00606973        |             0.00630359          |
+|  Mean Molarity |  0.0061  | | 
+|  RSD  |        2.77%       |                   |                  | 
 <br>
 
 | PVA/B-CD(2:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |          5.84          |           6.00            |         5.98          | 
-|  Molarity   |          todo         |             todo        |             todo          |
-|  Mean Molarity |  not done |  | | 
+|  Molarity   |          0.00620792         |             0.006378        |             0.00635674          |
+|  Mean Molarity |  0.0063 |  | | 
+|  RSD  |        1.47% |                   |                  | 
 <br>
 
 | PVA/B-CD(4:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  $\Delta$ V  |            5.99        |           6.00           |          5.99        | 
-|  Molarity   |          todo(credit nico in presentation)         |             todo        |             todo          |
-|  Mean Molarity |  not done... note each flask was cleaned with H<sub>2</sub>O and acetate buffer of 6 was made (3ml per titration) |  | | 
+|  Molarity   |          0.00636737         |             0.006378        |             0.00636737          |
+|  Mean Molarity |  0.0064 |  | | 
+|  RSD  |        0.096%       |                   |                  | 
 <br>
 
 
 bcd+pva
+not done... note each flask was cleaned with H<sub>2</sub>O and acetate buffer of 6 was made (3ml per titration)
 
 
 
