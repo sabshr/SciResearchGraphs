@@ -36,6 +36,6 @@ plt.xlabel(r'Molarity ($ \mu M$)')
 plt.ylabel(r'Absorbance (498.8 nm)')
 plt.legend()
 
-# Show the plot
+# Save plot
 plt.grid(True)
-plt.show()
+plt.savefig("congoRed.svg", format="svg")

@@ -37,5 +37,5 @@ ax.grid(True, linestyle='--', alpha=0.7)
 # Adjust layout to make room for the rotated x-axis labels
 plt.tight_layout()
 
-# Show the plot
-plt.show()
+# Save plot
+plt.savefig("leadConc.svg", format="svg")

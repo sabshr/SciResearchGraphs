@@ -36,6 +36,6 @@ plt.xlabel(r'Molarity ($ \mu M$)')
 plt.ylabel(r'Absorbance (590.4 nm)')
 plt.legend()
 
-# Show the plot
+# Save plot
 plt.grid(True)
-plt.show()
+plt.savefig("crystalViolet.svg", format="svg")

@@ -36,6 +36,6 @@ plt.xlabel(r'Molarity ($\mu M$)')
 plt.ylabel(r'Absorbance (668.5 nm)')
 plt.legend()
 
-# Show the plot
+# Save plot
 plt.grid(True)
-plt.show()
+plt.savefig("methyleneBlue.svg", format="svg")
