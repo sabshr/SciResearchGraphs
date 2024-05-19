@@ -24,13 +24,15 @@ ax.errorbar(categories, values, yerr=errors, fmt='o', ecolor='r', capsize=5, lin
 
 # Labels and title in LaTeX
 ax.set_ylabel(r'\textbf{Pb}$^{2+}$ \textbf{in 10mL aliquots (mg)}', fontsize=14)
-ax.set_title(r'\textbf{Pb}$^{2+}$ \textbf{Concentration in Different Conditions}', fontsize=16)
+ax.set_title(r'\textbf{Pb}$^{2+}$ \textbf{Removal Viability}', fontsize=16)
+
 
 # Rotate x-axis labels for better readability
-plt.xticks(rotation=45, ha='right')
+plt.xticks(rotation=45, ha='right', fontsize=10)
+plt.yticks(fontsize=10)
 
 # Display grid for better readability
-ax.grid(True)
+ax.grid(True, linestyle='--', alpha=0.7)
 
 # Adjust layout to make room for the rotated x-axis labels
 plt.tight_layout()
