@@ -107,8 +107,7 @@ B-CD: Beta Cyclodextrin
 
 >Gels were then placed in a 6-well plate, with wells filled with a 4-6H<sub>2</sub>O dilution of each dye. 3 plates were used, one for each dye. There are hyperlinks to a data visualization on desmos with each sample on this graph. 
 
-| Dilution| [Congo Red Abs. @498.8nm](https://www.desmos.com/calculator/jpirurhp8b) | [Methylene Blue Abs. @668.5nm](https://www.desmos.com/calculator/mpqpil1rlb) | [Crystal Violet Abs. @590.6nm](https://www.desmos.com/calculator/ois8airu3k)|
-| Dilution | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
+| Dilution | [Congo Red Abs. @498.8nm](https://www.desmos.com/calculator/jpirurhp8b) | [Methylene Blue Abs. @668.5nm](https://www.desmos.com/calculator/mpqpil1rlb) | [Crystal Violet Abs. @590.6nm](https://www.desmos.com/calculator/ois8airu3k)|
 | -------- | ----------------------- | ---------------------------- | ---------------------------- |
 |  2+8H<sub>2</sub>O  |          0.320          |             0.156            |             0.360            | 
 |  4+6H<sub>2</sub>O  |          0.627          |             0.376            |             0.738            | 
