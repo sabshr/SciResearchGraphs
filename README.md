@@ -216,6 +216,7 @@ B-CD: Beta Cyclodextrin
 |  Molarity   |         0.0062115060241          |         0.00635674           |             0.0064925748503          |
 |  Zn<sup>2+</sup> Standardized Molarity  |          0.0064       |                   |                  | 
 |  RSD  |        2.21%       |                   |                  | 
+|  Zinc in 10mL (mg)  |      4.18 ± 0.09      |                   |                  | 
 <br>
 
 | PVA + CA [Zn<sup>2+</sup>]  |  |  |  |
@@ -223,7 +224,8 @@ B-CD: Beta Cyclodextrin
 |  $\Delta$ V (mL) |          5.82          |           5.91             |            5.89           | 
 |  Molarity   |          0.00618666        |             0.00628233       |             0.00626107          |
 |  Mean Molarity |  0.0062 |  | | 
-|  RSD  |        0.805%       |                   |                  | 
+|  RSD  |        0.81%       |                   |                  | 
+|  Zinc in 10mL (mg)  |    4.05 ± 0.03        |                   |                  | 
 <br>
 
 | PVA/B-CD [Zn<sup>2+</sup>]  |  |  |  |
@@ -232,6 +234,7 @@ B-CD: Beta Cyclodextrin
 |  Molarity   |          0.00597406         |             0.00606973        |             0.00630359          |
 |  Mean Molarity |  0.0061  | | 
 |  RSD  |        2.77%       |                   |                  | 
+|  Zinc in 10mL (mg)  |     3.99 ± 0.11       |                   |                  | 
 <br>
 
 | PVA/B-CD(2:1) [Zn<sup>2+</sup>]  |  |  |  |
@@ -240,6 +243,7 @@ B-CD: Beta Cyclodextrin
 |  Molarity   |          0.00620792         |             0.006378        |             0.00635674          |
 |  Mean Molarity |  0.0063 |  | | 
 |  RSD  |        1.47% |                   |                  | 
+|  Zinc in 10mL (mg)  |     4.12 ± 0.06       |                   |                  | 
 <br>
 
 | PVA/B-CD(4:1) [Zn<sup>2+</sup>]  |  |  |  |
@@ -247,8 +251,19 @@ B-CD: Beta Cyclodextrin
 |  $\Delta$ V (mL) |            5.99        |           6.00           |          5.99        | 
 |  Molarity   |          0.00636737         |             0.006378        |             0.00636737          |
 |  Mean Molarity |  0.0064 |  | | 
-|  RSD  |        0.096%       |                   |                  | 
+|  RSD  |        0.10%       |                   |                  | 
+|  Zinc in 10mL (mg)  |      4.179 ± 0.004      |                   |                  | 
 <br>
+
+>Collating data points into a table (this is what is later converted to a graph), we get:
+
+| Zn<sup>2+</sup> in 10mL aliquots (mg) |  |
+| ------ | --------- |
+|  Control (no gel) |         4.18 ± 0.09          |
+|  PVA + CA   |      4.05 ± 0.03           | 
+|  PVA/B-CD |   3.99 ± 0.11               | 
+|  PVA/B-CD(4:1) + CA  |        4.12 ± 0.06        |
+| PVA/B-CD(2:1) + CA  |       4.179 ± 0.004     |   
 
 
 bcd+pva
