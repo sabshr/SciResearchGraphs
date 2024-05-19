@@ -119,12 +119,22 @@ B-CD: Beta Cyclodextrin
 
 | Sample | Congo Red Abs. @498.8nm | Methylene Blue Abs. @668.5nm | Crystal Violet Abs. @590.6nm |
 | ------ | --------------------- | -------------------------- | -------------------------- |
-|  No Gel  |          0.827          |             0.390            |             0.913            | 
+|  No Gel (Control)  |          0.827          |             0.390            |             0.913            | 
 |  PVA + CA  |          0.261          |             0.075            |             0.193            | 
 |  PVA/B-CD  |          0.178          |             0.098         |             0.149            | 
 |  PVA/B-CD(4:1) + CA  |          0.137          |       0.184            |             0.555            | 
 |  PVA/B-CD(2:1) + CA  |          0.505          |             0.157            |             0.488            |  
+<br>
 
+> Using our Standardized Curves, we can now determine the molarity of each sample:
+
+| Sample | Congo Red Conc. (Mm) | Methylene Blue Conc. (µM) | Crystal Violet Conc. (µM) |
+| ------ | --------------------- | -------------------------- | -------------------------- |
+|  No Gel (Control)  |          0.094          |             0.006           |             0.011            | 
+|  PVA + CA  |          0.025          |             0.006            |             0.001            | 
+|  PVA/B-CD  |          0.015          |             0.001         |             0.0003            | 
+|  PVA/B-CD(4:1) + CA  |          0.010          |       0.003            |             0.006            | 
+|  PVA/B-CD(2:1) + CA  |          0.054          |             0.002            |             0.005            |  
 
 ### Weight after 24hrs
 >Gels were all initially weighed and cut to be 0.23g<br>
