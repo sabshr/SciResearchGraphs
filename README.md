@@ -153,42 +153,58 @@ B-CD: Beta Cyclodextrin
 | Pb<sup><sup>2+</sup></sup> Solution Standardization |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted  |          10.00          |             10.00           |             10.00           | 
-|  $\Delta$ V  |          18.55          |             18.53           |             18.46           | 
+|  $\Delta$ V (mL) |          18.55          |             18.53           |             18.46           | 
 |  Molarity   |          0.01971865          |             0.01969739        |             0.01962298           |
 |  Pb<sup>2+</sup> Standardized Molarity  |          0.0197        |                   |                  |
 |  RSD  |        0.26%       |                   |                  | 
+|  Lead in 10mL (mg)  |        40.84 ± 0.094      |                   |                  | 
 <br>
 
 | PVA + CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |          18.23          |             18.26           |             18.22           | 
+|  $\Delta$ V (mL) |          18.23          |             18.26           |             18.22           | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.01936785           |
 |  Mean Molarity |  0.0194  |  | | 
 |  RSD  |        0.11%       |                   |                  | 
+|  Lead in 10mL (mg)  |        40.19 ± 0.043     |                   |                  | 
 <br>
 
 | PVA/B-CD [Pb<sup>2+</sup>] |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |          18.39          |             18.47           |             18.4          | 
+|  $\Delta$ V (mL)  |          18.39          |             18.47           |             18.4          | 
 |  Molarity   |          0.01937849         |             0.01941038         |             0.0195592           |
 |  Mean Molarity |  0.0194 |  | | 
-|  RSD  |        0.50%       |                   |                  | 
+|  RSD  |        0.50%       |                   |                  |
+|  Lead in 10mL (mg)  |        40.18 ± 0.20     |                   |                  | 
 <br>
 
-| PVA/B-CD(4:1) +CA [Pb<sup>2+</sup>]  |  |  |  |
+| PVA/B-CD(4:1) + CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |         18.35           |             18.29           |           18.31         | 
+|  $\Delta$ V (mL) |         18.35           |             18.29           |           18.31         | 
 |  Molarity   |         0.01950605         |           0.01944227        |          0.01946353          |
 |  Mean Molarity |  0.0195 |  | | 
 |  RSD  |        0.17%       |                   |                  | 
+|  Lead in 10mL (mg)  |        40.40 ± 0.07     |                   |                  | 
 <br>
 
 | PVA/B-CD(2:1) + CA [Pb<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |          18.29          |            18.28            |             18.13          | 
+|  $\Delta$ V (mL) |          18.29          |            18.28            |             18.13          | 
 |  Molarity   |       0.01944227            |          0.01943164        |               0.01927219        |
 |  Mean Molarity |  0.0194|  | | 
 |  RSD  |        0.49%       |                   |                  | 
+|  Lead in 10mL (mg)  |        40.20 ± 0.20     |                   |                  | 
+<br>
+
+>Collating data points into a table (this is what is later converted to a graph), we get:
+
+| Pb<sup>2+</sup> in 10mL aliquots (mg) |  |
+| ------ | --------- |
+|  Control (no gel) |         40.84 ± 0.094          |
+|  PVA + CA   |      40.19 ± 0.043           | 
+|  PVA/B-CD |   40.18 ± 0.20               | 
+|  PVA/B-CD(4:1) + CA  |        40.40 ± 0.07        |
+| PVA/B-CD(2:1) + CA  |        40.20 ± 0.20     |        
 
 
 ---
@@ -196,7 +212,7 @@ B-CD: Beta Cyclodextrin
 | Zn<sup>2+</sup> Solution Standardization |  |  |  |
 | ------ | --------- | -------------- | -------------- |
 |  Volume Pipetted (these were the only non-10mL values)  |          4.98          |             5.00           |             5.01           | 
-|  $\Delta$ V  |          2.91          |             2.99           |             3.06           | 
+|  $\Delta$ V (mL)  |          2.91          |             2.99           |             3.06           | 
 |  Molarity   |         0.0062115060241          |         0.00635674           |             0.0064925748503          |
 |  Pb<sup>2+</sup> Standardized Molarity  |          0.0064       |                   |                  | 
 |  RSD  |        2.21%       |                   |                  | 
@@ -204,7 +220,7 @@ B-CD: Beta Cyclodextrin
 
 | PVA + CA [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |          5.82          |           5.91             |            5.89           | 
+|  $\Delta$ V (mL) |          5.82          |           5.91             |            5.89           | 
 |  Molarity   |          0.00618666        |             0.00628233       |             0.00626107          |
 |  Mean Molarity |  0.0062 |  | | 
 |  RSD  |        0.805%       |                   |                  | 
@@ -212,7 +228,7 @@ B-CD: Beta Cyclodextrin
 
 | PVA/B-CD [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |           5.62         |           5.71             |           5.93         | 
+|  $\Delta$ V (mL) |           5.62         |           5.71             |           5.93         | 
 |  Molarity   |          0.00597406         |             0.00606973        |             0.00630359          |
 |  Mean Molarity |  0.0061  | | 
 |  RSD  |        2.77%       |                   |                  | 
@@ -220,7 +236,7 @@ B-CD: Beta Cyclodextrin
 
 | PVA/B-CD(2:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |          5.84          |           6.00            |         5.98          | 
+|  $\Delta$ V (mL) |          5.84          |           6.00            |         5.98          | 
 |  Molarity   |          0.00620792         |             0.006378        |             0.00635674          |
 |  Mean Molarity |  0.0063 |  | | 
 |  RSD  |        1.47% |                   |                  | 
@@ -228,7 +244,7 @@ B-CD: Beta Cyclodextrin
 
 | PVA/B-CD(4:1) [Zn<sup>2+</sup>]  |  |  |  |
 | ------ | --------- | -------------- | -------------- |
-|  $\Delta$ V  |            5.99        |           6.00           |          5.99        | 
+|  $\Delta$ V (mL) |            5.99        |           6.00           |          5.99        | 
 |  Molarity   |          0.00636737         |             0.006378        |             0.00636737          |
 |  Mean Molarity |  0.0064 |  | | 
 |  RSD  |        0.096%       |                   |                  | 
