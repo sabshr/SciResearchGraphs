@@ -77,6 +77,12 @@ B-CD: Beta Cyclodextrin
 - Gels were placed in dH<sub>2</sub>O (I used cell culture wells) and let sit for 24hrs  <br>
 - Excess water was removed from the surface of gels  <br>
 - Samples were weighed, and swelling was calculated using the formula $S = \dfrac{(W_f\ -W_0)}{W_0}\cdot100$
+
+<details><summary>Swelling Analysis Graph</summary>
+  
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/43ead6c6-8811-4d88-ad55-b9ebb00c2b8f)
+</details>
+
   
 ## Organic Dye Absorbance UV-Vis Assay 
   
@@ -113,6 +119,21 @@ B-CD: Beta Cyclodextrin
 |  4+6H<sub>2</sub>O  |          0.627          |             0.376            |             0.738            | 
 |  6+4H<sub>2</sub>O  |          0.902          |             0.530            |             1.099            | 
 |  8+2H<sub>2</sub>O  |          1.145          |             0.640            |             1.367            | 
+
+<details><summary>Congo Red Calibration Curve in LaTEX</summary>
+  
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/808dd582-4677-43cc-8539-be121b0cc43f)
+</details>
+
+<details><summary>Methylene Blue Calibration Curve in LaTEX</summary>
+
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/7ea4bb0c-e15e-4a57-a0ca-6ff386f6ac0a)
+</details>
+
+<details><summary>Crystal Violet Calibration Curve in LaTEX</summary>
+  
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/937558ba-fe29-4096-9214-7f3df9b16e83)
+</details>
 
 ### Analyzing Rested Gel Samples
 >Absorbance readings were taken after gels sat in dye solution for 24h.<br>
@@ -214,7 +235,12 @@ B-CD: Beta Cyclodextrin
 |  PVA + CA   |      40.19 ± 0.043           | 
 |  PVA/B-CD |   40.18 ± 0.20               | 
 |  PVA/B-CD(4:1) + CA  |        40.40 ± 0.07        |
-| PVA/B-CD(2:1) + CA  |        40.20 ± 0.20     |        
+| PVA/B-CD(2:1) + CA  |        40.20 ± 0.20     |    
+
+<details><summary>View Pb<sup>2+</sup> Absorbance Graph</summary>
+  
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/1162b707-701b-4688-9550-61aa5aa684d3)
+</details>
 
 
 ---
@@ -274,6 +300,11 @@ B-CD: Beta Cyclodextrin
 |  PVA/B-CD |   3.99 ± 0.11               | 
 |  PVA/B-CD(4:1) + CA  |        4.12 ± 0.06        |
 | PVA/B-CD(2:1) + CA  |       4.179 ± 0.004     |   
+
+<details><summary>View Zn<sup>2+</sup> Absorbance Graph</summary>
+  
+![image](https://github.com/sabshr/SciResearchGraphs/assets/168509660/dda80ee0-3659-48e9-9067-afa97bb72e06)
+</details>
 
 # Bibliography 
 (1) Kawano, S.; Kida, T.; Miyawaki, K.; Fukuda, Y.; Kato, E.; Nakano, T.; Akashi, M. Adsorption Capability of Urethane-Crosslinked Heptakis(2,6-Di-O-Methyl)-β-Cyclodextrin Polymers toward Polychlorobiphenyls in Nonpolar Organic Media. Polym J 2015, 47 (6), 443–448. https://doi.org/10.1038/pj.2015.13.<br><br>
