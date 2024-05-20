@@ -275,9 +275,32 @@ B-CD: Beta Cyclodextrin
 |  PVA/B-CD(4:1) + CA  |        4.12 ± 0.06        |
 | PVA/B-CD(2:1) + CA  |       4.179 ± 0.004     |   
 
+# Bibliography (ACS Style)
+(1) Kawano, S.; Kida, T.; Miyawaki, K.; Fukuda, Y.; Kato, E.; Nakano, T.; Akashi, M. Adsorption Capability of Urethane-Crosslinked Heptakis(2,6-Di-O-Methyl)-β-Cyclodextrin Polymers toward Polychlorobiphenyls in Nonpolar Organic Media. Polym J 2015, 47 (6), 443–448. https://doi.org/10.1038/pj.2015.13.<br><br>
+(2) Alpha-cyclodextrin, Beta-cyclodextrin, and Gamma-cyclodextrin; Exemption from the Requirement of a Tolerance. Federal Register. https://www.federalregister.gov/documents/2005/07/06/05-13263/alpha-cyclodextrin-beta-cyclodextrin-and-gamma-cyclodextrin-exemption-from-the-requirement-of-a (accessed 2024-05-03).<br><br>
+(3) Li, T.; Guo, R.; Zong, Q.; Ling, G. Application of Molecular Docking in Elaborating Molecular Mechanisms and Interactions of Supramolecular Cyclodextrin. Carbohydrate Polymers 2022, 276, 118644. https://doi.org/10.1016/j.carbpol.2021.118644.<br><br>
+(4) Pinho, E. Chapter 4 - Cyclodextrins-Based Hydrogel. In Plant and Algal Hydrogels for Drug Delivery and Regenerative Medicine; Giri, T. K., Ghosh, B., Eds.; Woodhead Publishing Series in Biomaterials; Woodhead Publishing, 2021; pp 113–141. https://doi.org/10.1016/B978-0-12-821649-1.00004-0.<br><br>
+(5) Mäkelä, M.; Korpela, T.; Laakso, S. Colorimetric Determination of β-Cyclodextrin: Two Assay Modifications Based on Molecular Complexation of Phenolphatalein. Journal of Biochemical and Biophysical Methods 1987, 14 (2), 85–92. https://doi.org/10.1016/0165-022X(87)90043-1.<br><br>
+(6) Hernández, R.; Rusa, M.; Rusa, C. C.; López, D.; Mijangos, C.; Tonelli, A. E. Controlling PVA Hydrogels with γ-Cyclodextrin. Macromolecules 2004, 37 (25), 9620–9625. https://doi.org/10.1021/ma048375i.<br><br>
+(7) Kawano, S.; Kida, T.; Miyawaki, K.; Noguchi, Y.; Kato, E.; Nakano, T.; Akashi, M. Cyclodextrin Polymers as Highly Effective Adsorbents for Removal and Recovery of Polychlorobiphenyl (PCB) Contaminants in Insulating Oil. Environ. Sci. Technol. 2014, 48 (14), 8094–8100. https://doi.org/10.1021/es501243v.<br><br>
+(8) Wacławek, S.; Krawczyk, K.; Silvestri, D.; Padil, V. V. T.; Řezanka, M.; Černík, M.; Jaroniec, M. Cyclodextrin-Based Strategies for Removal of Persistent Organic Pollutants. Advances in Colloid and Interface Science 2022, 310, 102807. https://doi.org/10.1016/j.cis.2022.102807.<br><br>
+(9) Liu, J.; Tian, B.; Liu, Y.; Wan, J.-B. Cyclodextrin-Containing Hydrogels: A Review of Preparation Method, Drug Delivery, and Degradation Behavior. International Journal of Molecular Sciences 2021, 22 (24), 13516. https://doi.org/10.3390/ijms222413516.<br><br>
+(10) Cid-Samamed, A.; Rakmai, J.; Mejuto, J. C.; Simal-Gandara, J.; Astray, G. Cyclodextrins Inclusion Complex: Preparation Methods, Analytical Techniques and Food Industry Applications. Food Chemistry 2022, 384, 132467. https://doi.org/10.1016/j.foodchem.2022.132467.<br><br>
+(11) Figure 1: The structure of the most abundant PBDEs in technical... ResearchGate. https://www.researchgate.net/figure/The-structure-of-the-most-abundant-PBDEs-in-technical-mixtures-and-the-environment_fig1_344114219 (accessed 2024-02-22).<br><br>
+(12) Mansur, H. S.; Sadahira, C. M.; Souza, A. N.; Mansur, A. A. P. FTIR Spectroscopy Characterization of Poly (Vinyl Alcohol) Hydrogel with Different Hydrolysis Degree and Chemically Crosslinked with Glutaraldehyde. Materials Science and Engineering: C 2008, 28 (4), 539–548. https://doi.org/10.1016/j.msec.2007.10.088.<br><br>
+(13) Kim, G. J.; Yoon, K. J.; Kim, K. O. Glucose-Responsive Poly(Vinyl Alcohol)/β-Cyclodextrin Hydrogel with Glucose Oxidase Immobilization. J Mater Sci 2019, 54 (19), 12806–12817. https://doi.org/10.1007/s10853-019-03805-0.<br><br>
+(14) Darban, Z.; Shahabuddin, S.; Gaur, R.; Ahmad, I.; Sridewi, N. Hydrogel-Based Adsorbent Material for the Effective Removal of Heavy Metals from Wastewater: A Comprehensive Review. Gels 2022, 8 (5), 263. https://doi.org/10.3390/gels8050263.<br><br>
+(15) Ahmed, E. M. Hydrogel: Preparation, Characterization, and Applications: A Review. J Adv Res 2015, 6 (2), 105–121. https://doi.org/10.1016/j.jare.2013.07.006.<br><br>
+(16) Thangprasert, A.; Tansakul, C.; Thuaksubun, N.; Meesane, J. Mimicked Hybrid Hydrogel Based on Gelatin/PVA for Tissue Engineering in Subchondral Bone Interface for Osteoarthritis Surgery. Materials & Design 2019, 183, 108113. https://doi.org/10.1016/j.matdes.2019.108113.<br><br>
+(17) Konieczynska, M. D.; Grinstaff, M. W. On-Demand Dissolution of Chemically Cross-Linked Hydrogels. Acc Chem Res 2017, 50 (2), 151–160. https://doi.org/10.1021/acs.accounts.6b00547.<br><br>
+(18) Kodavanti, P. R. S.; Loganathan, B. Organohalogen Pollutants and Human Health. In International Encyclopedia of Public Health; 2016. https://doi.org/10.1016/B978-0-12-803678-5.00318-0.<br><br>
+(19) Stauffer, S. R.; Peppast, N. A. Poly(Vinyl Alcohol) Hydrogels Prepared by Freezing-Thawing Cyclic Processing. Polymer 1992, 33 (18), 3932–3936. https://doi.org/10.1016/0032-3861(92)90385-A.<br><br>
+(20) Xu, L.; Bai, X.; Yang, J.; Li, J.; Xing, J.; Yuan, H.; Xie, J.; Li, J. Preparation and Characterisation of a Gellan Gum-Based Hydrogel Enabling Osteogenesis and Inhibiting Enterococcus Faecalis. International Journal of Biological Macromolecules 2020, 165, 2964–2973. https://doi.org/10.1016/j.ijbiomac.2020.10.083.<br>
+(21) Kim, T.-J.; Kim, B.-C.; Lee, H.-S. Production of Cyclodextrin Using Raw Corn Starch without a Pretreatment. Enzyme and Microbial Technology 1997, 20 (7), 506–509. https://doi.org/10.1016/S0141-0229(96)00186-X.<br><br>
+(22) Wang, L.-Y.; Wang, M.-J. Removal of Heavy Metal Ions by Poly(Vinyl Alcohol) and Carboxymethyl Cellulose Composite Hydrogels Prepared by a Freeze–Thaw Method. ACS Sustainable Chem. Eng. 2016, 4 (5), 2830–2837. https://doi.org/10.1021/acssuschemeng.6b00336.<br><br>
+(23) Saokham, P.; Muankaew, C.; Jansook, P.; Loftsson, T. Solubility of Cyclodextrins and Drug/Cyclodextrin Complexes. Molecules : A Journal of Synthetic Chemistry and Natural Product Chemistry 2018, 23 (5). https://doi.org/10.3390/molecules23051161.<br><br>
+(24) Saha, S.; Roy, A.; Roy, K.; Roy, M. N. Study to Explore the Mechanism to Form Inclusion Complexes of β-Cyclodextrin with Vitamin Molecules. Sci Rep 2016, 6 (1), 35764. https://doi.org/10.1038/srep35764.<br><br>
 
-bcd+pva
-not done... note each flask was cleaned with H<sub>2</sub>O and acetate buffer of 6 was made (3ml per titration)
 
 
 
