@@ -275,7 +275,7 @@ B-CD: Beta Cyclodextrin
 |  PVA/B-CD(4:1) + CA  |        4.12 ± 0.06        |
 | PVA/B-CD(2:1) + CA  |       4.179 ± 0.004     |   
 
-# Bibliography (ACS Style)
+# Bibliography 
 (1) Kawano, S.; Kida, T.; Miyawaki, K.; Fukuda, Y.; Kato, E.; Nakano, T.; Akashi, M. Adsorption Capability of Urethane-Crosslinked Heptakis(2,6-Di-O-Methyl)-β-Cyclodextrin Polymers toward Polychlorobiphenyls in Nonpolar Organic Media. Polym J 2015, 47 (6), 443–448. https://doi.org/10.1038/pj.2015.13.<br><br>
 (2) Alpha-cyclodextrin, Beta-cyclodextrin, and Gamma-cyclodextrin; Exemption from the Requirement of a Tolerance. Federal Register. https://www.federalregister.gov/documents/2005/07/06/05-13263/alpha-cyclodextrin-beta-cyclodextrin-and-gamma-cyclodextrin-exemption-from-the-requirement-of-a (accessed 2024-05-03).<br><br>
 (3) Li, T.; Guo, R.; Zong, Q.; Ling, G. Application of Molecular Docking in Elaborating Molecular Mechanisms and Interactions of Supramolecular Cyclodextrin. Carbohydrate Polymers 2022, 276, 118644. https://doi.org/10.1016/j.carbpol.2021.118644.<br><br>
