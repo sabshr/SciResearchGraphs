@@ -71,8 +71,13 @@ B-CD: Beta Cyclodextrin
   ```
 </details>
 
-## Swelling Analysis 
+## ATR-FTIR 
+-  Thank you to Prof. Dan Burgard at the University of Puget Sound for allowing me to use the university's FTIR equipment!
+-  FTIR spectra were obtained using a PerkinElmer UATR Two Diamond on a PerkinElmer Spectrum One
+-  Unlike Mansur et al., we had to use an ATR attachment due to poor readings in transmittance mode (this may have been due to the thickness of gels, but we did have somewhat thin gels (<1mm)
+-  FTIR readings were obtained from swelled hydrogels. Using swelled gels produced cleaner spectra and were more pliable to the force used to press gels into the ATR.
 
+## Swelling Analysis 
 - Gels (dried) were cut into smaller pieces and initial weight was recorded<br>
 - Gels were placed in dH<sub>2</sub>O (I used cell culture wells) and let sit for 24hrs  <br>
 - Excess water was removed from the surface of gels  <br>
